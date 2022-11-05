@@ -1,4 +1,4 @@
-package es.upm.grise.profundizacion.control_1;
+package main.java.es.upm.grise.profundizacion.control_1;
 
 import java.util.ArrayList;
 
