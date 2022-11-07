@@ -53,6 +53,8 @@ public class LibraryTest {
 		assertThrows(NonExistingBookException.class, () -> myLibrary.getBook("Harry Potter 2"));
 		//mirar si el libro se ha borrado bien
 	}
+	
+	/*
 	@Test 
 	public void removeNonExistingBookTest() throws NonExistingBookException{
 		Library myLibrary = new Library();
@@ -69,6 +71,7 @@ public class LibraryTest {
 		assertThrows(EmptyLibraryException.class, () -> myLibrary.getBook("Harry Potter 2"));
 
 	}
+	*/
 
 
 	@Test

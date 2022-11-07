@@ -1,0 +1,29 @@
+[33mcommit b65b36a0f7fe7ed90064ddf02650ca86cff790bb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: mariapizarro1 <maria.pizarro.gomez@alumnos.upm.es>
+Date:   Sat Nov 5 13:56:59 2022 +0100
+
+    jUnit Test code
+
+[33mcommit 4f664219f986b4ecd1faee84fc3e46f0c24bf4a4[m
+Author: mariapizarro1 <maria.pizarro.gomez@alumnos.upm.es>
+Date:   Sat Nov 5 13:55:41 2022 +0100
+
+    actualizacion pom
+
+[33mcommit 35bd8fcae34837168dad91c015f4448c49097089[m
+Author: mariapizarro1 <maria.pizarro.gomez@alumnos.upm.es>
+Date:   Sat Nov 5 12:19:43 2022 +0100
+
+    pom con junit dependencies
+
+[33mcommit e8be5067e5849ee3446cad12f42c3149b253a9b4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: odieste <odieste@fi.upm.es>
+Date:   Thu Oct 21 11:39:47 2021 +0200
+
+    Code added
+
+[33mcommit 28704027cc1482896d6cff795cf69d7176f80086[m
+Author: Oscar Dieste <odieste@fi.upm.es>
+Date:   Thu Oct 21 09:24:25 2021 +0200
+
+    Initial commit
